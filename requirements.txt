@@ -1,0 +1,9 @@
+opencv-python==4.6.0.66
+Flask-Caching==2.0.1
+Flask-SQLAlchemy==3.0.2
+numpy==1.23.5
+Pillow==9.3.0
+matplotlib==3.6.2
+redis==4.3.5
+
+tensorflow==2.11.0
